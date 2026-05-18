@@ -32,6 +32,7 @@
    Excel/CSV - Data Source
 
 6. Dashboard Features
+
    
    
    **Executive Overview**
@@ -46,6 +47,7 @@
 
 
 
+
    **Workforce Risk & Performance Analytics**
 
    attrition heatmap
@@ -57,6 +59,7 @@
    absenteeism analysis
 
    interactive tooltips
+
 
 
 
