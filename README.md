@@ -32,7 +32,11 @@ absenteeism analysis,
 interactive tooltips.
 
 **Employee Workforce Analysis**
-employee-level investigation,
-conditional formatting,
-operational workforce filtering,
-employee search capability.
+employee-level investigation
+
+conditional formatting
+
+operational workforce filtering
+
+employee search capability
+
