@@ -6,19 +6,19 @@
    absenteeism and
    operational workforce trends to support strategic HR decision-making.
 
-3. This project is an Executive HR Workforce Analytics Solution built in Power BI to support workforce intelligence, employee retention analysis, operational HR reporting, and executive decision-making.
+3. This project is an Executive HR Workforce Analytics Solution built in Power BI to support workforce intelligence, employee retention analysis, operational HR     reporting, and executive decision-making.
 
 4. Objectives:
 
-monitor workforce KPIs
+   monitor workforce KPIs
 
-analyze attrition risk
+   analyze attrition risk
 
-identify workforce engagement trends
+   identify workforce engagement trends
 
-support employee-level investigation
+   support employee-level investigation
 
-provide executive workforce insights
+   provide executive workforce insights
 
 
 4. Tools:
@@ -33,37 +33,40 @@ provide executive workforce insights
 
 6. Dashboard Features
    
-**Executive Overview**
+   
+   **Executive Overview**
 
-workforce KPIs
+   workforce KPIs
 
-headcount trends
+   headcount trends
 
-salary analysis
+   salary analysis
 
-attrition overview
-
-
-**Workforce Risk & Performance Analytics**
-
-attrition heatmap
-
-salary vs performance analysis
-
-satisfaction correlation
-
-absenteeism analysis
-
-interactive tooltips
+   attrition overview
 
 
-**Employee Workforce Analysis**
 
-employee-level investigation
+   **Workforce Risk & Performance Analytics**
 
-conditional formatting
+   attrition heatmap
 
-operational workforce filtering
+   salary vs performance analysis
 
-employee search capability
+   satisfaction correlation
+
+   absenteeism analysis
+
+   interactive tooltips
+
+
+
+   **Employee Workforce Analysis**
+
+   employee-level investigation
+
+   conditional formatting
+
+   operational workforce filtering
+
+   employee search capability
 
