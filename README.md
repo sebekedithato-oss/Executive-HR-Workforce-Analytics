@@ -1,7 +1,7 @@
 # Executive-HR-Workforce-Analytics
-Organizations require visibility into workforce performance, employee satisfaction, attrition risk, absenteeism, and operational workforce trends to support strategic HR decision-making.
+1. Organizations require visibility into workforce performance, employee satisfaction, attrition risk, absenteeism, and operational workforce trends to support strategic HR decision-making.
 
-This project is an Executive HR Workforce Analytics Solution built in Power BI to support workforce intelligence, employee retention analysis, operational HR reporting, and executive decision-making.
+2. This project is an Executive HR Workforce Analytics Solution built in Power BI to support workforce intelligence, employee retention analysis, operational HR reporting, and executive decision-making.
 
 3. Objectives:
 
